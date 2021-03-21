@@ -1,0 +1,9 @@
+http://guides.beanstalkapp.com/version-control/common-git-commands.html
+https://stackoverflow.com/questions/1611215/remove-a-git-commit-which-has-not-been-pushed
+https://softwareengineering.stackexchange.com/questions/117945/staging-environment-vs-production-environment
+https://choosealicense.com/
+https://www.markdownguide.org/basic-syntax/
+https://roadmap.sh/
+
+
+UCRETSIZ KUPON: https://www.udemy.com/course/temel-nodejs-egitimi/?couponCode=MU_EEMK
